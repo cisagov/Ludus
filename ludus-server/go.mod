@@ -6,7 +6,7 @@ require (
 	github.com/apenella/go-ansible v1.1.7
 	github.com/gin-gonic/gin v1.8.1
 	github.com/xeipuuv/gojsonschema v1.2.0
-	golang.org/x/crypto v0.1.0
+	golang.org/x/crypto v0.17.0
 	gorm.io/driver/sqlite v1.4.3
 	gorm.io/gorm v1.24.2
 	sigs.k8s.io/yaml v1.4.0
@@ -15,7 +15,7 @@ require (
 require (
 	github.com/xeipuuv/gojsonpointer v0.0.0-20180127040702-4e3ac2762d5f // indirect
 	github.com/xeipuuv/gojsonreference v0.0.0-20180127040603-bd5ef7bd5415 // indirect
-	golang.org/x/net v0.4.0 // indirect
+	golang.org/x/net v0.10.0 // indirect
 )
 
 require (
@@ -55,8 +55,8 @@ require (
 	github.com/subosito/gotenv v1.4.1 // indirect
 	github.com/ugorji/go/codec v1.2.7 // indirect
 	golang.org/x/exp v0.0.0-20221230185412-738e83a70c30
-	golang.org/x/sys v0.3.0 // indirect
-	golang.org/x/text v0.5.0 // indirect
+	golang.org/x/sys v0.15.0 // indirect
+	golang.org/x/text v0.14.0 // indirect
 	google.golang.org/protobuf v1.28.1 // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0
