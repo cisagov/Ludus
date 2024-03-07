@@ -1,6 +1,11 @@
 # Ludus
 
-This project is archived an not actively maintained.
+This project has been archived and is no longer actively maintained on cisagov.
+
+See: 
+- https://gitlab.com/badsectorlabs/ludus
+
+---
 
 Ludus is a system to build easy to use cyber environments, or "ranges" for testing and development.
 
